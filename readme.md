@@ -1,2 +1,2 @@
 # README
-Durian: the best smelling app out there
+Durian: the best smelling Vulnerable NodeJS app out there!
